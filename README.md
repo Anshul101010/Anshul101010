@@ -70,6 +70,10 @@ QA Automation Engineer with hands-on experience building intelligent test infras
 | **Confidence scoring** | Coverage/5 and Executability/5 scored independently per TC |
 | **Update mode** | Edit fields or regenerate steps on existing TCs |
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anshul101010&color=blueviolet&style=flat&label=TestCraft+Repo+Views" />
+</p>
+
 ---
 
 ## 📊 GitHub Activity
