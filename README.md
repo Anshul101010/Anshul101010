@@ -72,12 +72,10 @@ QA Automation Engineer with hands-on experience building intelligent test infras
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshul101010&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshul101010&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshul101010&theme=github-compact&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
