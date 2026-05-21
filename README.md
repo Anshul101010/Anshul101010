@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anshul-gupta" target="_blank">
+  <a href="https://www.linkedin.com/in/anshul-gupta-b454a0137" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Anshul%20Gupta-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -103,7 +103,7 @@ Good QA engineering is about **coverage logic, not just test count** — knowing
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [linkedin.com/in/anshul-gupta](https://www.linkedin.com/in/anshul-gupta)
+- 💼 LinkedIn: [linkedin.com/in/anshul-gupta-b454a0137](https://www.linkedin.com/in/anshul-gupta-b454a0137)
 - 🐙 GitHub: [github.com/Anshul101010](https://github.com/Anshul101010)
 
 ---
